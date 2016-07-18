@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DBDA48D226D2C748D7219FAD29998B1FC1A256BF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "698F84060E14097BC4FB2642054E8E3E8388829C" : 0,
+    "DBDA48D226D2C748D7219FAD29998B1FC1A256BF" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "137EABE4-285D-42E9-8072-6A02CEF975B3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "698F84060E14097BC4FB2642054E8E3E8388829C" : "iBeaconTemplateSwift",
+    "DBDA48D226D2C748D7219FAD29998B1FC1A256BF" : "beaconLocal\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iBeaconTemplateSwift",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iBeaconTemplateSwift.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:relevante\/ibeacon-swift-tutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "698F84060E14097BC4FB2642054E8E3E8388829C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/anuarnordin5463\/beaconLocal.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBDA48D226D2C748D7219FAD29998B1FC1A256BF"
+    }
+  ]
+}
